@@ -1,0 +1,16 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"obj_Bullet","order":3,"path":"objects/obj_Bullet/obj_Bullet.yy",},
+    {"name":"obj_Player","order":1,"path":"objects/obj_Player/obj_Player.yy",},
+    {"name":"obj_Spawn","order":4,"path":"objects/obj_Spawn/obj_Spawn.yy",},
+    {"name":"obj_Zombie","order":2,"path":"objects/obj_Zombie/obj_Zombie.yy",},
+    {"name":"spr_Bullet","order":5,"path":"sprites/spr_Bullet/spr_Bullet.yy",},
+    {"name":"spr_Enemy","order":3,"path":"sprites/spr_Enemy/spr_Enemy.yy",},
+    {"name":"spr_EnemyDamage","order":7,"path":"sprites/spr_EnemyDamage/spr_EnemyDamage.yy",},
+    {"name":"spr_Heart","order":4,"path":"sprites/spr_Heart/spr_Heart.yy",},
+    {"name":"spr_Player","order":2,"path":"sprites/spr_Player/spr_Player.yy",},
+    {"name":"spr_PlayerDamage","order":6,"path":"sprites/spr_PlayerDamage/spr_PlayerDamage.yy",},
+    {"name":"spr_TileMask","order":1,"path":"sprites/spr_TileMask/spr_TileMask.yy",},
+  ],
+}
