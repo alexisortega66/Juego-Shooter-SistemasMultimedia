@@ -1,6 +1,6 @@
 if texto == "instructions"{
-
+audio_stop_all()
 room_goto(Room1)
-audio_pause_sound(snd_playground);
+
 
 }

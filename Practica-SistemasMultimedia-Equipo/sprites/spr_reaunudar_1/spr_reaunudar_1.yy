@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"spr_reaunudar",
+    "%Name":"spr_reaunudar_1",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"spr_reaunudar",
+    "name":"spr_reaunudar_1",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,

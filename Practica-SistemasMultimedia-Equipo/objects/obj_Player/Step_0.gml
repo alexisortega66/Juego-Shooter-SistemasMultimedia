@@ -31,5 +31,5 @@ if(mouse_check_button_pressed(mb_left)){
 }
 
 if(life <= 0){
-	room_restart();
+	room_goto(Room5)
 }

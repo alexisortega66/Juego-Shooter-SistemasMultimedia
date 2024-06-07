@@ -8,17 +8,12 @@ if(place_meeting(x,y,obj_Player)){
 	obj_Player.life--;
 	obj_Player.sprite_index = spr_PlayerDamage;
 	obj_Player.alarm[0] = 10;
-audio_play_sound(snd_golpe, 1, false);
+audio_play_sound(snd_heat, 1, false);
 
 }
 
 if(enemyLife <= 0){
 	instance_destroy();
 	score+=1
-
-}
-if (score ==2){
-	show_message("Has ganado")
-//game_end()
 
 }
