@@ -17,3 +17,4 @@ if(enemyLife <= 0){
 	score+=1
 
 }
+
