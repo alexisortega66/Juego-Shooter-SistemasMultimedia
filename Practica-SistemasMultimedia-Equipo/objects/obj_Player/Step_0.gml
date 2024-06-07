@@ -16,13 +16,14 @@ else if(keyboard_check(ord("W")) && place_free(x,y - vspd)){
 }
 
 if(mouse_check_button_pressed(mb_left)){
-
+	
 	//var xx = x + lengthdir_x(20, image_angle - 20);
 	var xx = x + lengthdir_x(20,point_direction(x,y,mouse_x,mouse_y) - 20);
 	var yy = y + lengthdir_y(20,point_direction(x,y,mouse_x,mouse_y) - 20);
 
 	var bullet = instance_create_depth(xx,yy,-1,obj_Bullet);
-	
+	    audio_play_sound(rifle_sound, 1, false);
+
 	//bullet.direction = image_angle;
 	bullet.direction = point_direction(x,y,mouse_x,mouse_y);
 	bullet.speed = 10;

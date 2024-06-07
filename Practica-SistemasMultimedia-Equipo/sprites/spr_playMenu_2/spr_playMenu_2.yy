@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"spr_playMenu_1",
+    "%Name":"spr_playMenu_2",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"spr_playMenu_1",
+    "name":"spr_playMenu_2",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
